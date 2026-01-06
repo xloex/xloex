@@ -1,4 +1,9 @@
-## Hi there 👋
+![Banner](banner.png)
+
+
+I'm a **Computer Engineering student** at **UNAM** (National Autonomous University of Mexico) 🌱.
+
+I am currently **in the process of developing myself as a Software Engineer** 🚀, actively learning through every project. My main focus lies in **Competitive Programming** and backend logic 🏆, where I enjoy solving complex algorithmic problems and building efficient tools 🧠. When I'm not studying or coding, you can find me exploring new technologies 🔎.
 
 <!--
 **xloex/xloex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
