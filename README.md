@@ -6,7 +6,7 @@ I'm a **Computer Engineering student** at **UNAM** (National Autonomous Universi
 I am currently **in the process of developing myself as a Software Engineer** 🚀, actively learning through every project. My main focus lies in **Competitive Programming** and backend logic 🏆, where I enjoy solving complex algorithmic problems and building efficient tools 🧠. When I'm not studying or coding, you can find me exploring new technologies 🔎.
 
 
-# Tecnologies ⚓
+# Technologies ⚓
 ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
